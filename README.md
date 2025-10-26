@@ -1,38 +1,23 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Daniil
 
 **`Aspiring Quantitative Developer & Machine Learning Engineer`**
 
-I'm a student at **ITMO University** leveraging my competitive programming background to solve complex problems in quantitative finance and machine learning. I'm passionate about algorithmic trading, stochastic models, and building predictive systems.
+I'm a student at **ITMO University** leveraging my competitive programming background to solve complex problems.
 
 ---
 
 ### 🧠 Domains of Interest
-- **Quantitative Finance:** Algorithmic Trading, Stochastic Calculus, Options Pricing
 - **Machine Learning:** Deep Learning, Time Series Analysis, Reinforcement Learning
 - **Competitive Programming:** Algorithms, Data Structures, High-Performance C++
 
 ### 🛠️ Technical Stack
 **Languages:** `C++` • `Python` • `SQL` • `Bash`
 **ML/DL:** `TensorFlow` • `PyTorch` • `scikit-learn` • `Pandas` • `NumPy`
-**Quant/Trading:** `Backtrader` • `QuantConnect` • `Oanda API`
 **Tools:** `Git` • `Docker` • `Linux` • `Jupyter`
 
 ### 🏆 Competitive Programming
 [![Codeforces](https://badge.codeforces.com/profile/Your_Handle.svg)](https://codeforces.com/profile/Your_Handle)
-**Max Rating:** **[Your_Rating]** (e.g., Expert, Candidate Master)
-
-### 📈 Quant/ML Projects
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [Stock Price Predictor](https://github.com/...) | LSTM model for price forecasting | Python, TensorFlow, Yahoo Finance |
-| [Options Pricing Model](https://github.com/...) | Black-Scholes implementation | C++, Python, Quantitative Finance |
-| [Algorithmic Trading Bot](https://github.com/...) | Mean-reversion strategy | Python, Backtrader, Oanda API |
-
-### 📝 Latest Blog Posts
-<!-- If you have a blog, you can use RSS to auto-update this section -->
-- [Building a Market Making Strategy from Scratch](https://your-website.link/post1)
-- [Optimizing Neural Networks for Financial Data](https://your-website.link/post2)
-- [From Competitive Programming to Quant Dev](https://your-website.link/post3)
+**Max Rating:** **[1854]** (e.g., Expert, Candidate Master)
 
 ---
 
