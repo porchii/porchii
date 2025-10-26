@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniil
 
-**`Aspiring Quantitative Developer & Machine Learning Engineer`**
+**`Aspiring Machine Learning Engineer`**
 
 I'm a student at **ITMO University** leveraging my competitive programming background to solve complex problems.
 
