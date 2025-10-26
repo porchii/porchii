@@ -23,10 +23,10 @@ I'm a student at **ITMO University** leveraging my competitive programming backg
 
 ### 📊 GitHub & Visitor Analytics
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&style=flat)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=porchii.porchii&style=flat)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=false&title_color=3B82F6&icon_color=3B82F6&bg_color=0F172A&text_color=CBD5E1)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=porchii&show_icons=true&hide_border=false&title_color=3B82F6&icon_color=3B82F6&bg_color=0F172A&text_color=CBD5E1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=false&title_color=3B82F6&bg_color=0F172A&text_color=CBD5E1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=porchii&layout=compact&hide_border=false&title_color=3B82F6&bg_color=0F172A&text_color=CBD5E1)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=false&background=0F172A&stroke=0F172A&ring=3B82F6&fire=3B82F6&currStreakLabel=CBD5E1)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=porchii&hide_border=false&background=0F172A&stroke=0F172A&ring=3B82F6&fire=3B82F6&currStreakLabel=CBD5E1)
