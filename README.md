@@ -12,11 +12,8 @@ I'm a student at **ITMO University** leveraging my competitive programming backg
 
 ### 🛠️ Technical Stack
 **Languages:** `C++` • `Python` • `SQL` • `Bash`
-**ML/DL:** `TensorFlow` • `PyTorch` • `scikit-learn` • `Pandas` • `NumPy`
-**Tools:** `Git` • `Docker` • `Linux` • `Jupyter`
-
-### 🏆 Competitive Programming
-[![Codeforces](https://badge.codeforces.com/profile/Your_Handle.svg)](https://codeforces.com/profile/Your_Handle)
+**ML/DL:** `scikit-learn` • `Pandas` • `NumPy`
+**Tools:** `Git`
 
 ---
 
