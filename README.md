@@ -7,9 +7,9 @@
 
 ## 🧑‍🎓 About me
 
-- 🎓 Student: **ITMO**
-- 🌱 Now learning: **basic ML, C/C++, SQL, Python**
-- 💭 Focued on: **Machine Learning, Data Science, Maths**
+- 🎓 **Student: ITMO**
+- 🌱**Now learning: **basic ML, C/C++, SQL, Python**
+- 💭 **Focued on: **Machine Learning, Data Science, Maths**
 
 ---
 
