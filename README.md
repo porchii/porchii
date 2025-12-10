@@ -2,10 +2,10 @@
   🔧 ЗАМЕНИ ВСЕ ПЛЕЙСХОЛДЕРЫ В ФОРМАТЕ YOUR_... НА СВОИ ДАННЫЕ
 -->
 
-<h1 align="center">Привет, я YOUR_NAME 👋</h1>
+<h1 align="center">Hi, i'm Daniil👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=ML+Engineer="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=ML+Engineer"Typing SVG" />
 </p>
 
 <p align="center">
