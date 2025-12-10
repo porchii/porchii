@@ -5,14 +5,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=ML+Engineer;Exploring+Math+and+Data+Science"Typing SVG" />
 </p>
 
----
 
 ## 🚀CONTACTS
 <p align="center">
   <a href="https://t.me/xorkot"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=porchii&color=grey&style=flat-square" alt="Profile views" />
