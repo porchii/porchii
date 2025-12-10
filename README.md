@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=ML+Engineer;Exploring+Math+and+Data+Science"Typing SVG" />
 </p>
 
+<p>
+  <img allign="center" src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
+</p>
+
 
 ### 🚀 SEND MESSAGE
 <p align="center">
