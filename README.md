@@ -1,11 +1,7 @@
-<!--
-  🔧 ЗАМЕНИ ВСЕ ПОЛЯ В ФОРМАТЕ YOUR_... НА СВОИ ДАННЫЕ
--->
-
 <h1 align="center">Привет, я Данил 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=650&lines=Начинающий+MLщик;Студент+ИТМО;Люблю+математику+и+алгоритмы" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=650&lines=ML engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
